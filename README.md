@@ -1,4 +1,4 @@
-# pginfer: Postgres extension support onnxruntime inference.
+# pginfer: Postgres extension support AI inference.
 
 >Integrate AI-model in postgresql database via extension
 >
